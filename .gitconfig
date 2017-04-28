@@ -1,5 +1,7 @@
 ; Replace the fake token with your own at the end of the file,
 ; and put your username, mail, etc.
+; A lot of information here : https://git-scm.com/docs/git-config
+; (Search the option name in the page)
 
 [core]                                                                                                                                                                                     
 	excludesfile = /path/of/.gitignore_global
@@ -131,7 +133,7 @@
   pager  = less -FRSX
 
 [push]
-  default = tracking
+  default = upstream
 
 [branch]
   ; When a new branch is created with git branch or git checkout that tracks
