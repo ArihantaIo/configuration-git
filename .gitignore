@@ -1,5 +1,4 @@
-# OS generated files #
-######################
+# OS generated files
 .DS_Store
 .DS_Store?
 ._*
@@ -8,47 +7,36 @@
 ehthumbs.db
 Thumbs.db
 
-# Sublime Text     #
-####################
+# Sublime Text
 *.sublime-project
 *.sublime-workspace
 
-# Netbeans metadata files #
-###########################
+# Netbeans metadata files
 nbproject/*
 /catalog.xml
 
-# JetBrains #
-#############
+# JetBrains
 .idea/*
 
-# Codekit #
-###########
+# Codekit
 *.codekit
 
-# Ruby #
-########
+# Ruby
 .ruby-version
 
-# Vim #
-#######
+# Vim
 .viminfo
 .netrwhist
 
-# Terraform #
-#############
+# Terraform
 .tfstate
 .terraform/
 
-# Project #
-###########
+# Project
 vendor/
 
-# Packages #
-###########
+# Packages
 *.deb
 
-# ruby #
-########
-
+# ruby
 .ruby-version
